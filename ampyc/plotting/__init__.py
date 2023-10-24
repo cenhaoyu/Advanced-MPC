@@ -17,3 +17,4 @@ from .plot_x import plot_x_state_time, plot_x_state_state
 from .plot_u import plot_u
 from .plot_nmpc import plot_nmpc
 from .plot_costs import plot_costs
+from .plot_rmpc_tightenings import plot_rmpc_tightenings

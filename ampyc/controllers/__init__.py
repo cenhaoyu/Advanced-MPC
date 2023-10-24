@@ -15,3 +15,5 @@
 '''Controllers'''
 from .mpc import MPC
 from .nonlinear_mpc import NonlinearMPC
+
+from .rmpc import RMPC

@@ -15,3 +15,5 @@
 '''Parameters for each MPC controller and its associated simulation'''
 from .params_mpc import MPCParams
 from .params_nmpc import NonlinearMPCParams
+
+from .params_rmpc import RMPCParams
